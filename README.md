@@ -1,4 +1,4 @@
-__This is a betterdiscord theme made for people that are fans of anime__
+__This is a betterdiscord theme made for anime fans
 
 # Usage
 1. download [betterdiscord](https://betterdiscord.app/)

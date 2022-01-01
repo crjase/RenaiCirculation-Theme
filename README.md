@@ -8,4 +8,4 @@ __This is a betterdiscord theme for people that are fans of anime__
 5. inside the themes folder, drag the theme (from step 2), into the betterdiscord themes folder that you've opened
 6. your done, betterdiscord should load your theme, if not, reload discord.
 
-https://github.com/crjase/RenaiCirculation-Theme/blob/main/RenaiCirculation.png?raw=true
+[](https://github.com/crjase/RenaiCirculation-Theme/blob/main/RenaiCirculation.png?raw=true)

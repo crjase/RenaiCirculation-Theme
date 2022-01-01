@@ -173,7 +173,15 @@ section.container-1r6BKw.themed-ANHk51,
 .scrollableContainer-2NUZem.webkit-HjD9Er,
 .channelTextArea-rNsIhG.channelTextArea-2VhZ6z.focused-PMHa7m,
 .clickable-2ap7je .header-2o-2hj:hover,
-.selected-WP3kCM .header-2o-2hj {
+.selected-WP3kCM .header-2o-2hj, 
+div.members-1998pB.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2,
+div.member-3-YXUe.container-2Pjhx-.clickable-1JJAn8,
+div.member-3-YXUe.container-2Pjhx-.clickable-1JJAn8,
+.scroller-1JbKMe,
+.container-3w7J-x,
+.container-2wlB3z,
+.members-1998pB, .members-1998pB>div
+{
 background: transparent !important;
 }
 
@@ -183,13 +191,15 @@ background: transparent !important;
     display: none;
 }
 
-/* Make friend and members list transparent */
-div.members-1998pB.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 {
-    background: transparent;
+/* CSS Editor Colour */
+#bd-editor-controls {
+background: #a390f78a !important;
 }
-div.member-3-YXUe.container-2Pjhx-.clickable-1JJAn8 {
-    background: transparent;
-}
-.scroller-1JbKMe {
-    background-color: transparent !important;
+.monaco-editor,
+.margin,
+.monaco-editor,
+.monaco-editor-background,
+.monaco-editor,
+#bd-editor-controls {
+    background: black !important;
 }

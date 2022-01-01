@@ -1,6 +1,6 @@
 __This is a betterdiscord theme made for people that are fans of anime__
 
-# Usage
+# Usage - Grandma Friendly
 1. download [betterdiscord](https://betterdiscord.app/)
 2. download the theme from here (it's the file with .css at the end)
 3. in discord settings (after step 1 is completed), you'll see near the bottom "themes", click on that tab

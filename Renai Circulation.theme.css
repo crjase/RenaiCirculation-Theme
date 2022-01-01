@@ -181,6 +181,7 @@ div.member-3-YXUe.container-2Pjhx-.clickable-1JJAn8,
 .container-3w7J-x,
 .container-2wlB3z,
 .members-1998pB, .members-1998pB>div
+
 {
 background: transparent !important;
 }
@@ -202,4 +203,9 @@ background: #a390f78a !important;
 .monaco-editor,
 #bd-editor-controls {
     background: black !important;
+}
+
+/* Below folders button colours */
+.circleIcon-2_77lA {
+    color: white;
 }

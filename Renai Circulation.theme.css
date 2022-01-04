@@ -188,7 +188,7 @@ background: transparent !important;
 
 /* Hide help and inbox buttons */
 .toolbar-1t6TWx a,
-.icon-22AiRD {
+div.toolbar-1t6TWx div[aria-label="Inbox"] {
     display: none;
 }
 
@@ -208,4 +208,21 @@ background: #a390f78a !important;
 /* Below folders button colours */
 .circleIcon-2_77lA {
     color: white;
+}
+
+/* Account page banner */
+.userInfo-iCloHO {
+    background-color: #a390f78a;
+}
+
+/* Code block css in server */
+.scrollbarGhostHairline-1mSOM1 {
+    background-color: black !important;
+    opacity: 0.5 !important;
+}
+
+/* Code block css in DM */
+.inline {
+    background-color: black !important;
+    opacity: 0.5 !important;
 }
